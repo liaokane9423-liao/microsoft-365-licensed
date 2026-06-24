@@ -1,0 +1,5 @@
+# 核心分析：僅需標準函式庫 (random, dataclasses, typing)
+# 若需圖表視覺化，額外安裝：
+matplotlib>=3.7
+numpy>=1.24
+pandas>=2.0
